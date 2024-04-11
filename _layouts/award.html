@@ -4,7 +4,11 @@ layout: default
 
 <!-- Page Header -->
 {% if page.background %}
-<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+<!--
+  This was giving header background to the pages I dismissed it for a more modern style attempt
+style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')"
+-->
+<header class="masthead" >
   {% else %}
   <header class="masthead">
     {% endif %}

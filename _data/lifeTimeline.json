@@ -1,5 +1,10 @@
 [
     {
+        "date": "Nov 2023",
+        "label": "Kurdistan University",
+        "detail": "In this year I have returned to Kurdistan University-Hawler as a part time lecturer with the main goal of establishing an AI and innovation center AIIC."
+    },
+    {
         "date": "Nov 2021",
         "label": "SmartGate",
         "detail": "I transferred to SmartGate as the Software Development Team Manager. My team has successfully delivered multiple products to date."
@@ -12,7 +17,7 @@
     {
         "date": "Sep 2018",
         "label": "Visiting Lecturer",
-        "detail": "Please fix this : This year I had the privilege to become visiting lecturer for two universities namely Kurdistan University and Tishk University"
+        "detail": "This year I had the privilege to become visiting lecturer for two universities namely Kurdistan University and Tishk University"
     },
     {
         "date": "Feb 2018",
@@ -92,6 +97,6 @@
     {
         "date": "Sep 1981",
         "label": "My Birth Day",
-        "detail": "I was born in the city of Erbil, Iraq. My father, Abdulhamid Fattah, is a biologist and my mother, Samira Bilal, is a teacher. I am the first child in the family and we have grown to a family of six members with two brothers, Aza and Ali, and one sister, Nsar."
+        "detail": "I was born in the city of Erbil, Iraq. My father, Abdulhamid Fattah, is a biologist and my mother, Samira Bilal, is a teacher. I am the first child in the family and we have grown to a family of six members with two brothers, and a sister."
     }
 ]

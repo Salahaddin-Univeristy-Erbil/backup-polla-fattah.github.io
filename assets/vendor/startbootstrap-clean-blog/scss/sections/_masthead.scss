@@ -1,13 +1,13 @@
 // Styling for the masthead
 header.masthead {
     // TIP: Background images are set within the HTML using inline CSS!
-    margin-bottom: 50px;
+    margin-bottom: 150px;
     background: no-repeat center center;
-    background-color: $gray-600;
+    //background-color: $gray-600;
     background-attachment: scroll;
     position: relative;
     background-size: cover;
-    height:350px;
+    height:0px;
     .overlay {
         position: absolute;
         top: 0;

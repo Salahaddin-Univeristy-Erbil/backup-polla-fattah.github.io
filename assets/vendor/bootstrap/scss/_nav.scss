@@ -12,6 +12,8 @@
 }
 
 .nav-link {
+  font-size: 1.3em;
+
   display: block;
   padding: $nav-link-padding-y $nav-link-padding-x;
   text-decoration: if($link-decoration == none, null, none);

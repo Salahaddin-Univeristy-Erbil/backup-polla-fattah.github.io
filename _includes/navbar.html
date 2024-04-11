@@ -1,18 +1,30 @@
 <!-- Navigation -->
 <style>
   #logo-button {
-    width: 120px;
+    width: 80px;
   }
 
-  @media screen and (max-width: 480px) {
-    #logo-button {
-      width: 80px;
-    }
-  }
 </style>
 
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
   <a href="{{"/" | relative_url }}">
     <img src="{{"/img/polla-fattah-circular.png" | relative_url }}" id="logo-button"/>
   </a>
+      <ul class="navbar-nav">
+
+        <li class="nav-item">
+          <a class="nav-link" href="{{"/academy" | relative_url }}">Academy</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{"/business" | relative_url }}">Business</a>
+        </li>
+         <li class="nav-item">
+          <a class="nav-link" href="{{"/jobs" | relative_url }}">Jobs</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="{{"/about" | relative_url }}">About</a>
+        </li>
+
+      </ul>
+  
 </nav>

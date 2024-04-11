@@ -16,6 +16,7 @@
 // other navbar variations.
 
 .navbar {
+  background-color: rgba(255, 255, 255, 0.801);
   position: relative;
   display: flex;
   flex-wrap: wrap; // allow us to do the line break for collapsing content
@@ -171,6 +172,7 @@
       }
 
       @include media-breakpoint-up($next) {
+
         flex-flow: row nowrap;
         justify-content: flex-start;
 
@@ -239,7 +241,7 @@
 
   .navbar-nav {
     .nav-link {
-      color: $navbar-light-color;
+
 
       @include hover-focus() {
         color: $navbar-light-hover-color;
@@ -291,7 +293,7 @@
 
   .navbar-nav {
     .nav-link {
-      color: $navbar-dark-color;
+
 
       @include hover-focus() {
         color: $navbar-dark-hover-color;
